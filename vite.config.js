@@ -1,7 +1,7 @@
 import { defineConfig } from 'vite';
 
 export default defineConfig({
-  base: '/contact-form/',
+  base: '/NFT-preview-card-component/',
   server: {
     port: 3000,
     host: true
